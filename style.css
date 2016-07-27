@@ -1,0 +1,118 @@
+body {
+  background-color: #515253;
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1,6em;
+}
+
+.profile_pic {
+  width: 100px;
+  vertical-align: 390px;
+  border-radius: 50%;
+
+}
+
+
+h1 {
+  font-size: 22px;
+  color: #084BA9;
+
+}
+
+h2 {
+  font-size: 18px;
+  color: #084BA9;
+
+}
+
+h3 {
+  font-size: 16px;
+  color: #084BA9;
+  text-align: left;
+  line-height: 20px;
+}
+
+h4 {
+  font-size: 15px;
+  color: #084BA9;
+  text-align: left;
+  line-height: 20px;
+}
+
+p {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  line-height: 18px;
+}
+table {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: #084BA9;
+}
+
+a:hover {
+  color: #50A3D9;
+}
+
+a:visited {
+  color: #084BA9;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+.card {
+  background: #F7F7F5;
+
+  margin: 0 auto;
+  padding: 20px;
+  margin-bottom: 20px; /* Automatically set left/right margins */
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.8);
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.button {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px
+}
+
+.button:visited {
+  color: white;
+}
+
+.text-center {
+ text-align: center
+}
+
+.icon-big i {
+  font-size: 30px;
+}
+
+.icon-bigger i {
+  font-size: 50px;
+}
+
+.header {
+  font-weight: 700;
+}
+
