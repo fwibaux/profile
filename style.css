@@ -31,13 +31,15 @@ h3 {
   color: #084BA9;
   text-align: left;
   line-height: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 h4 {
   font-size: 15px;
   color: #084BA9;
   text-align: left;
-  line-height: 20px;
+  line-height: 0px;
 }
 
 p {
@@ -116,3 +118,7 @@ ul {
   font-weight: 700;
 }
 
+.logo {
+  width: 75px;
+  border-radius: 3px;
+}
